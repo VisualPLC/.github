@@ -1,6 +1,6 @@
 ## Visual PLC Programming Language VPL 👋
 
-![Visual_PLC]()
+![Visual_PLC](https://github.com/VisualPLC/.github/blob/main/profile/Visual%20PLC%20Programming%20Language%20VPL.JPG)
 
 **Here are some ideas to get you started:**
 
