@@ -1,6 +1,6 @@
 ## Visual PLC Programming Language VPL 👋
 
-[!Visual_PLC](Visual PLC Programming Language VPL.JPG)
+![Visual_PLC](./Visual PLC Programming Language VPL.JPG)
 
 **Here are some ideas to get you started:**
 
