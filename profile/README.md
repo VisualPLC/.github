@@ -2,6 +2,8 @@
 
 ![Visual_PLC](https://github.com/VisualPLC/.github/blob/main/profile/Visual%20PLC%20Programming%20Language%20VPL.JPG)
 
+https://github.com/VisualPLC/.github/blob/main/profile/Blockly_VisualPLC.mp4
+
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
