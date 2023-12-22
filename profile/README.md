@@ -2,7 +2,11 @@
 
 - https://github.com/VisualPLC/.github/blob/main/profile/Blockly_VisualPLC.mp4
 
+![Visual_PLC_gif](https://github.com/VisualPLC/.github/blob/main/profile/Blockly_VisualPLC_2.gif)
+
 ![Visual_PLC](https://github.com/VisualPLC/.github/blob/main/profile/Visual%20PLC%20Programming%20Language%20VPL.JPG)
+
+![Visual_PLC_integration_test_gif](https://github.com/VisualPLC/.github/blob/main/profile/Blockly_TwinCAT_Integration_Test.gif)
 
 
 **Here are some ideas to get you started:**
