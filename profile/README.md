@@ -15,7 +15,7 @@
 
 🙋‍♀️ A short introduction - what is your organization all about?
 
-This organization is created for: Visual PLC programming Language "VPL".
+- This organization is created for: Visual PLC programming Language "VPL".
 Visual tools are provided to help in the creation and development of PLC projects using visual software such as Google's Blockly, etc., it can even replace the
 own PLC and VPL program perform the function of PLC...
 
