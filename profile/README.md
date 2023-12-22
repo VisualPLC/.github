@@ -8,6 +8,8 @@
 
 ![Visual_PLC_integration_test_gif](https://github.com/VisualPLC/.github/blob/main/profile/Blockly_TwinCAT_Integration_Test.gif)
 
+![Visual_PLC](https://github.com/VisualPLC/.github/blob/main/profile/Blockly_MQTT.JPG)
+
 
 **Here are some ideas to get you started:**
 
