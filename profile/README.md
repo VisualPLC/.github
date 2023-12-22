@@ -15,7 +15,7 @@
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
+🙋‍♀️ About the project:
 
 - This organization is created for: Visual PLC programming Language "VPL".
 Visual tools are provided to help in the creation and development of PLC projects using visual software such as Google Blockly, etc., it can even replace the
