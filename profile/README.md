@@ -29,3 +29,14 @@ own PLC and VPL program perform the function of PLC...
 
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+[!NOTE]
+nota
+[!TIP]
+Tip
+[!IMPORTANT]
+important
+[!WARNING]
+Warning
+[!CAUTION]
+Caution
+
