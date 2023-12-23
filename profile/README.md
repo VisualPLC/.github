@@ -30,13 +30,17 @@ own PLC and VPL program perform the function of PLC...
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [!NOTE]
-nota
+- nota
+ 
 [!TIP]
-Tip
+- Tip
+  
 [!IMPORTANT]
-important
+- important
+  
 [!WARNING]
-Warning
+- Warning
+  
 [!CAUTION]
-Caution
+- Caution
 
